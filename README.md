@@ -18,7 +18,7 @@ Table of Contents
    * [(Optional) C++ STL Extra Resources](/Part-1/Ep1.5-STL-Extra.md) :heavy_check_mark:
    * [Implementation](/Part-1/Ep2-Implementation.md) :heavy_check_mark:
    * [Sorting Algorithms](/Part-1/Ep3-Sorting.md) :heavy_check_mark:
-   * [Greedy Algorithms](/Part-1/Ep4-Greedy.md)
+   * [Greedy Algorithms](/Part-1/Ep4-Greedy.md) :eyes:
 
 2. Part Two:
    * [Basic Math](/Part-2/Ep1-Basic-Math.md)
